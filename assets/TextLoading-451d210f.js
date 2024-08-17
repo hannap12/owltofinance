@@ -1,0 +1,1 @@
+import{_}from"./Main-5fc91486.js";import{q as e,s,I as t,K as c,t as n}from"./vendor-43c3f2a4.js";const a={},d=o=>(t("data-v-f95116f0"),o=o(),c(),o),p={class:"loading_box"},i=d(()=>n("span",{class:"loading"},null,-1)),r=[i];function f(o,l){return e(),s("div",p,r)}const h=_(a,[["render",f],["__scopeId","data-v-f95116f0"]]);export{h as _};
